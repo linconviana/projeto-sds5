@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div>
+    <div className="text-primary">
       <h1>Bem viando ao React Spring</h1>
     </div>
   );
